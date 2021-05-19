@@ -39,7 +39,7 @@ client.on("message", async message => {
         message.channel.send("salveeee hehe")
     }
     if (comando === "youtube"){
-        message.channel.send("https://www.youtube.com/channel/UCfz1CjbUlxwi1NBsrTqjDgw")
+        message.channel.send("https://www.youtube.com")
        
     }
     //----------------------------------------------
