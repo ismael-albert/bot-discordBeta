@@ -1,4 +1,17 @@
 *{
-    background-color: #aaa;
-    color: #aa1;
+    background-color: #0a0a0a;
+    color: #a1a1a1;
+    font-family: monospace;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .social{
+        text-align: center;
+        a{
+            margin-left:10px ;
+        }
+    }
 }
